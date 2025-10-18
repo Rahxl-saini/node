@@ -1,4 +1,4 @@
-Edited bt Rahul Saini
+Edited by Rahul Saini
 # Node.js
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
